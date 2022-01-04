@@ -618,9 +618,9 @@ parser_t.add_argument(
 #endregion
 
 if __name__ == '__main__':
-    TOKEN_MINT = ""
-    TOKEN_DECIMALS = ""
-    RPC_URL = ""
+    TOKEN_MINT = "56tNQ29XBrbovm5K5SThuQatjCy92w2wKUaUeQ8WCD9g"
+    TOKEN_DECIMALS = "9"
+    RPC_URL = "https://solana-api.projectserum.com"
     LOG_FOLDER_PREFIX = 'logs-'
     FULL_LOGS = 'detailed.log'
     SUCCESS_LOGS = 'success.log'

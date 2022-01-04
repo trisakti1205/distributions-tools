@@ -1,0 +1,5 @@
+recipient,amount,error
+5tmgjr2R8x4g3GTByNZNXorkPs55Sk3KJ3M2MoXSwvjg,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+QW5aFabDe64WFwGkLcfL2eF3WvWz7bmHhTLWXjczbsE,4500.000000,Fee payer  3V5scUrwppTz4AKgWgxWLCa63fs2VuJYm1JVgJsauLXY  has insufficient balance: 0.00204428 required  0.000524028 available
+22yttt9wCR3eJ5zqCsQBMV43c3tELYn3HfWnWWhG8KnR,4500.000000,Fee payer  3V5scUrwppTz4AKgWgxWLCa63fs2VuJYm1JVgJsauLXY  has insufficient balance: 0.00204428 required  0.000524028 available
+DHNALyxjCzLb7w1RhxWanCUk99KcEYVKuLFB4qm64gJy,4500.000000,Fee payer  3V5scUrwppTz4AKgWgxWLCa63fs2VuJYm1JVgJsauLXY  has insufficient balance: 0.00204428 required  0.000524028 available

@@ -1,0 +1,230 @@
+1. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 8w4C8VnE3YZgfaZwMzxmKRVVwbPhwndKXfQ4XAZ9mvat 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 8w4C8VnE3YZgfaZwMzxmKRVVwbPhwndKXfQ4XAZ9mvat
+  Recipient associated token account: 3DAhck1Qwr198DXgCxGCcQj8gf12vv8sxtrY988bMHcQ
+
+Signature: cDTucAjaEp4VjenEYejuhU1RUTXxiHqQNQhH6bGYPRoxZkXzxqUn3SM5nn6Aq8TQMQoRmgqLJKRRZod9U2fGrcW
+
+
+------------------------------
+2. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 8qsCb4mVFJbGpv3LWYJDn3aTPJ9BLu8h52SVniocUajW 
+Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+
+------------------------------
+3. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 7LcDaz4WFDmBDfCMZhbBusmCdtEymNwob7rc6C48Lqw3 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 7LcDaz4WFDmBDfCMZhbBusmCdtEymNwob7rc6C48Lqw3
+  Recipient associated token account: DRMB8Prv3ncpQxUXS7ckeFzMEa5asAz2vbe7eAFk1qQE
+
+Signature: 52WyiWrEuujXfiz1BgGGecB9SPJFGWDXYrgmsVrjLWQwZjT6fpCjbCzixnP3FzxRHAvahUaJiDSi8tTHDRVvibTa
+
+
+------------------------------
+4. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 HnyeX8hqcVKcyBQkgrXzCtML4mSHhVT81P4XShjJpXQY 
+Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+
+------------------------------
+5. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 E9ydQJQmGkyPfJEEn7X8fhH22MLiawV7S2NMFJs54f1U 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: E9ydQJQmGkyPfJEEn7X8fhH22MLiawV7S2NMFJs54f1U
+  Recipient associated token account: F37bQMZseYtYJV1s2zqdprxrKu5FRVXUoscN35gkvKKg
+
+Signature: 65gMzkQe1xKebaAwg7VaDggyxwQ2dCky2qKtMvT4QK8N1FVihLXsvUsSH4RDFnkNk1o4omsKxQxEz2dR3e4gepzb
+
+
+------------------------------
+6. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 2wpfr4WkBsBrBhLxKhSr4s4eHHzqXQZCABx2p2eJ4dNC 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 2wpfr4WkBsBrBhLxKhSr4s4eHHzqXQZCABx2p2eJ4dNC
+  Recipient associated token account: DumjfsVFPtDL6XxWYXLPpwwVsw7TLvE4ETCmd4V1Pnk8
+
+Signature: yZNTbWYvEwwknqac82tDYVCAYDMNChsQwHbruvYtLWYuAC28eqKrQHK2xaB6xWuiPnok4ES9uApJGNtny7FWVZv
+
+
+------------------------------
+7. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 EZEnErHctdnq1CcFCKkXdixrdM7deP71DNd6eYPfxVgR 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: EZEnErHctdnq1CcFCKkXdixrdM7deP71DNd6eYPfxVgR
+  Recipient associated token account: FYLYncnCenWueVViZvXfCZ4eSj9pATY9MtUTN8R43NiK
+
+Signature: 2mzeezaKNgFBSYXbjeNYUbC3c9CZZgvwePRZ2toCbSHsj579W86oQuuE9GZ5zAVJQZYGBm3fT93oo2YhgMimvyXp
+
+
+------------------------------
+8. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 oehZYjdtGpP2Gge8Gez7eTvW52JouXqHUKUYSvE7z4F 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: oehZYjdtGpP2Gge8Gez7eTvW52JouXqHUKUYSvE7z4F
+  Recipient associated token account: 9iBDxA8ZvQJhtvvdUr7EAB7ZYf8yhLmSsyTf7LPnQzV
+
+Signature: 2aQiE7bWhTz9d5PX7EoRT6hChCXBAj7YhmqjvYC8DSx7o6H7Bby2XjiGoefYbFahBZ6dptBjkDBuGi2apMTigNji
+
+
+------------------------------
+9. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 GNjWNN4SpfbscwScjLqs6jw81H7cTLq2s2N244Qx7CRX 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: GNjWNN4SpfbscwScjLqs6jw81H7cTLq2s2N244Qx7CRX
+  Recipient associated token account: DpHScUVNpAoy2y2cXUVZLLnMhG5DQf7jZ7y4TmB2Waug
+
+Signature: 5CTWrbaozhxn1SHWtQrE5vULM5Aq1CjXWDSegVpEzEosqrC2mH8DeiZWKbGHeNFaW8XuKvr2g6dJoQ5Avb522g4Y
+
+
+------------------------------
+10. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 DG6hmF4Ek3vPaHY7Xnpjo4GCtPghboRs5vmRJfZBBcwS 
+Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+
+------------------------------
+11. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 7hucq3NRtU3U4o8t2xPkR1Ga77NX1fgbadUHMFvp14Ag 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 7hucq3NRtU3U4o8t2xPkR1Ga77NX1fgbadUHMFvp14Ag
+  Recipient associated token account: EnbDAWPcPZsYBKQ4jxV7Sq8ZTPQrTAgggqmoPUREW7Vs
+
+Signature: 4u76cZZLAoF2qiC16syguyrxBFq6HhyXSGKkXKdxQc9zmoA9RVUAxx16Z78TdVBCQFgj9TpGEQa7vnVs6TZfwhtB
+
+
+------------------------------
+12. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 CAVqVfrR77GK4D1Z1VNwifUBFFV5bPyrxFKVhEBiUn54 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: CAVqVfrR77GK4D1Z1VNwifUBFFV5bPyrxFKVhEBiUn54
+  Recipient associated token account: HgCsnNw5MHYuSis4cJpxsVaCxptUmLcZt39RihCFM9EP
+
+Signature: 4NNuyP8pcG3ZvV3bfCCASV3bJUKSySJbcKvTG2yGZDYmGeD98j8TWqnMUzV42mhsZdRSnocdxvuyvnrKSe8YR4bR
+
+
+------------------------------
+13. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 4a6mVx36R4FenYsPuWDwKzfwL6rMC7VwQBvqnMqEnmov 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 4a6mVx36R4FenYsPuWDwKzfwL6rMC7VwQBvqnMqEnmov
+  Recipient associated token account: GNb3CVy44JaYHc12Fc3azXEPWoTVSidwC72WBRJGjDYK
+
+Signature: 2hXGD7hiUuNiaYkN6PUfJtmU3k3Fe3mzZcSj2yfoXf8MWuyk4m814wzDYxjpHzdXLxWhFGNsYLLigaZXJEJDex7B
+
+
+------------------------------
+14. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 sh9Mqw9KxBJmASH1TvwUQRK86QBrzyS5VRDhnCZFouT 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: sh9Mqw9KxBJmASH1TvwUQRK86QBrzyS5VRDhnCZFouT
+  Recipient associated token account: CkWywFTmNmduSczY9rBaQ5eY1VZbkPfgmJPjWaQX25dS
+
+Signature: 2hZSjyMTJguxAtjMJqZgaM3vDvw6Ps7M8ieZNaBrQF5WxGY3ss5CWRiAfTBJsB8i5m7qadK9oRStELhEGbkdTVqD
+
+
+------------------------------
+15. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 4xPeUV6p9jsKCR1Gkhz8jiZVMe4XFPchz48dvUNcst5A 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 4xPeUV6p9jsKCR1Gkhz8jiZVMe4XFPchz48dvUNcst5A
+  Recipient associated token account: HY5V8NYkRHKJBmrPMCeCXpuhfEA9QqwURtCzuyjr6Ln9
+
+Signature: 3K5xAeAXjrU65sLk81QG3fGMPvLbMhFS5FnAziHUbooxEqTtWmBEDxJcfVmiRtPK3UV48bYMcbGdeNR24v8jLjBg
+
+
+------------------------------
+16. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 KzoEatP5LV6VSs5qFEBZnQFefTvUPZF2ufQVK9ARYVj 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: KzoEatP5LV6VSs5qFEBZnQFefTvUPZF2ufQVK9ARYVj
+  Recipient associated token account: BKjRWuFAr27vhjj79yppKWQKSUs2RjXJZ3VCQPPXXhrc
+
+Signature: 37udpALi7tgFjxYvb9V25hr9QyZHdXE3iH6RwAXxN4Ekn2TWryJ5qLEtGk9sd51ZpeoQyspNxkiJ8r1Z2dvDV1Kx
+
+
+------------------------------
+17. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 Ei7jeHqVPabVEQoYwCjsMvgpuzCAwpf4kuQzEQ7kWonn 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: Ei7jeHqVPabVEQoYwCjsMvgpuzCAwpf4kuQzEQ7kWonn
+  Recipient associated token account: aqV3apDXmPvQoritMTBbirc84DmdNEPrg3cuVQbtwdS
+
+Signature: 2t9MiUcvYGQs4zmcJA4CK7g2J5b6AViEETDEVenoYUXre4GPYyDSxYkN8eQnqHxo4xWK3s3DG9Sb8kBUWRtDtCsG
+
+
+------------------------------
+18. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 CUa7YsGdLkcJaQpmUmNSrGbJXXtyqbLATEWrCYG3vgm4 
+Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+
+------------------------------
+19. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 2KqoFGBwcMRvWTZ5g6KcQXNiaSnSrGrLmiSV5onZ8g3r 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 2KqoFGBwcMRvWTZ5g6KcQXNiaSnSrGrLmiSV5onZ8g3r
+  Recipient associated token account: CAAh1Kp2hq4akvMTEHi3VC23kK8aSZ5evjrMGvk5Leqs
+
+Signature: 214PnKNHeVSZ5cZKEnSTdUmnhxbpDQYt1vRu4Z9yuuA9mkW82ZujgriimzxU9xay8L8kYnj36uu3pnPcPXkM4s51
+
+
+------------------------------
+20. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 CixxFJYgPbhe7ZJRzNRh4SxDzXVQDapZGqBAkYb2mYfF 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: CixxFJYgPbhe7ZJRzNRh4SxDzXVQDapZGqBAkYb2mYfF
+  Recipient associated token account: 6VtAYovEkvHC3t3BSKZf36WbN84RfAY7uFv7nLQoDWLr
+
+Signature: 2R3mrY9t7ZA4k9ukocjPkwMinXWBeTeqGCfKTNRgwX4Lp99QVkv4Ldi4E7ETdFxG8uDE7UY9w96JdiXcDzXcnbY6
+
+
+------------------------------
+21. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 9qxLHKdZpSqGJQNtj1at7pqLBuyZpdaA5E7PENagGqp4 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 9qxLHKdZpSqGJQNtj1at7pqLBuyZpdaA5E7PENagGqp4
+  Recipient associated token account: D6w8wEBsxktDDnpme7UYSaJShDbbzNFeXFWA5aHsciUz
+
+Signature: 5y7AhEoanLeaQYAv5aas7ahPj4jmPcrfRjm22Kf9jm2zcag2NNMFr47u8iu7GfmLkdF446REptxyw3zMGKQYV2d7
+
+
+------------------------------
+22. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 6tXkkvjuqjZKe3k7YdQXA3Tf6WwFt3nL6TPBrLVZ3Zra 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 6tXkkvjuqjZKe3k7YdQXA3Tf6WwFt3nL6TPBrLVZ3Zra
+  Recipient associated token account: 86y1LiDRhRukwaY8nYkRtZ82SjCF3jHHwnPRAUp9ZpRx
+
+Signature: 37MLuCNzY9bLa8HZ1eBzaWDZ7uKMda8NiTVMGPDv6fbfJUU8WZLhrYurnJEpVja5aas6EGs9VA4oH45cmzXP3Ly3
+
+
+------------------------------
+23. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 ACutb4T5CwnMEaFn5fav17dh8KFdJdbvscdxc7GqwvHx 
+Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+
+------------------------------
+24. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 6oPuvixZMJ6GKLN9jeYaxaYNYYCPU6XH1Lzr7qXZmHdj 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 6oPuvixZMJ6GKLN9jeYaxaYNYYCPU6XH1Lzr7qXZmHdj
+  Recipient associated token account: 71cnXKK7sCvQhcXi1GYrwN4sPfC8T5p4K9yiZMpN5UkQ
+
+Signature: 3hLsXhYobb4yUQ78Q3fVdEcbF7K57dnWYfr7kvvGkayhyUzyMYk8WAW3AFEdhRYpgKwsJjVxxRxnrsmp9GGqPDDE
+
+
+------------------------------
+25. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 2zuhCCAbRxxvikprbaEEhcyn8DPdobBP6b9Q1JfsvMG2 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 2zuhCCAbRxxvikprbaEEhcyn8DPdobBP6b9Q1JfsvMG2
+  Recipient associated token account: ATg2YdbDZQ6gQuSZerKxkhESVVZyp3Qdz6J2gdLhq3nL
+
+Signature: 5Ek8KxLuJDJeWsx22sPxJmcinLkRS1kPiAppcP6sDV5kCqNjNTVUjXrGiHhhU5e5g9yavZjhHHCgLFzZeRiVJomK
+
+
+------------------------------
+26. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4000.000000000 5Xfq63JXHpbf2gzWFDz61kqLyJACF61Bn3dyoUfFcdrX 
+Transfer 4000 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 5Xfq63JXHpbf2gzWFDz61kqLyJACF61Bn3dyoUfFcdrX
+  Recipient associated token account: 6868rVaXGqhpUaUSVEKGEEN4Ps4ttECgF1y3JMhaWQrC
+
+Signature: 4unMoQPh2DZ7vdBLNzsWJ6CZ493Ad8BArAk97sD6MzebqBYEPkUowpQLNJgyHLMPEZJEy6LG47orr8wt6eA5wkuZ
+
+
+------------------------------

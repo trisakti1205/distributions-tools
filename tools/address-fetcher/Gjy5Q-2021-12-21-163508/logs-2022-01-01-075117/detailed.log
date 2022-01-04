@@ -1,0 +1,11 @@
+1. Cmdline: spl-token transfer 56tNQ29XBrbovm5K5SThuQatjCy92w2wKUaUeQ8WCD9g 270000.000000000 8cHMwkSBPkuStdYh8HJXcMDKwmr6yjfDqxmHayWSK8mh --fund-recipient
+Transfer 270000 tokens
+  Sender: 5siaTXg9fZJC5o32CN6EuwNTSSeapzvWYBg151hkvDo7
+  Recipient: 8cHMwkSBPkuStdYh8HJXcMDKwmr6yjfDqxmHayWSK8mh
+  Recipient associated token account: J5RZHfmxvRpvLnrQ8X9kUVcMjLRCyvcGeRCkr4i66Pfx
+  Funding recipient: J5RZHfmxvRpvLnrQ8X9kUVcMjLRCyvcGeRCkr4i66Pfx (0.00203928 SOL)
+
+Signature: 5dCa4iyMqRAgRDJVqZTSHdFy7P54hjekXDoHdVpGm7pscSL54jxhsFUWBmfb1o4GK6U58xUYJgVeqSzpBdYbhyiP
+
+
+------------------------------

@@ -1,0 +1,6 @@
+recipient,amount,error
+A3yaXTYJKLXeCXEiXCXjUSGYy2KCLDvqC3nCYUHCeK49,30000.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+C18VFe12Hd4yttjERcjeEBxuqTcCbc7VqCjGLsXSrorN,30000.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+GJDtBqiCMPfdVDnQNcwVDmLAdnwdbQVNA2QadxDcuoxr,30000.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4RiGwq8xMoMUgtkyoxiQnjXu7LL8DXXSaCdKMThVVpns,30000.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5dBS11VkQarz9ajnLDXG3EZzJ9TYBKMmjDK9sdHdGhmX,30000.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account

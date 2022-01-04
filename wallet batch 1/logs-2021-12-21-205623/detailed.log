@@ -1,0 +1,454 @@
+1. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 BriKe2kckroHHTHbUAqBKZ5B9tRqsDdKwv1CDLmPqc7d --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: BriKe2kckroHHTHbUAqBKZ5B9tRqsDdKwv1CDLmPqc7d
+  Recipient associated token account: 5PdqkGt7DAnhmxKhUsiw6AHQ37sri7SXxzSEH1HBTWyU
+  Funding recipient: 5PdqkGt7DAnhmxKhUsiw6AHQ37sri7SXxzSEH1HBTWyU (0.00203928 SOL)
+
+Signature: 64cYNFgScaJWJbEnsu6iSqT5J9JSqaxUTrUM8Ts4PRwiqzKMxZPCFDe2bNQ5jbAhQBAcTTuup4UWdJyJ1rRNbLLh
+
+
+------------------------------
+2. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 DcsSKtBdyVHzwrftkSq38yoHKSMr5nZBo7F3iECbA4uR --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: DcsSKtBdyVHzwrftkSq38yoHKSMr5nZBo7F3iECbA4uR
+  Recipient associated token account: FQjCi5hX5qVxG4HdAHsymdTqcBjNDFpEVRP1ys6tdJ2y
+  Funding recipient: FQjCi5hX5qVxG4HdAHsymdTqcBjNDFpEVRP1ys6tdJ2y (0.00203928 SOL)
+
+Signature: 3eSEWMS9zk1ivscJKCugwtFDQpNw17TsQYeZitRzvGMK7nBFKtVKnN8TBqRTLbyZ4K44aWLU5mxaY6cYjXAbwDMa
+
+
+------------------------------
+3. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 4VAQcp4wfgC6c13qSwxZiY7yyaMURwE84LYBbG9ZRdkC --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 4VAQcp4wfgC6c13qSwxZiY7yyaMURwE84LYBbG9ZRdkC
+  Recipient associated token account: nBjdMmf673B5y5Jf6fzqYvzzFt5hCqW4fZ5mcVjcdrb
+  Funding recipient: nBjdMmf673B5y5Jf6fzqYvzzFt5hCqW4fZ5mcVjcdrb (0.00203928 SOL)
+
+Signature: 2nZnG4vPHoEMcNCG3W93eAEoa3uR4xX7kTe35mcnHqYLuP7Wc2pNXJjKhCsW6ntGrU4GDFfG9FghtGbxUTaw3igY
+
+
+------------------------------
+4. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 A3rXFnaaXy896n8roe7Nquz7vWXrXjfXQn19uUs6VSVw --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: A3rXFnaaXy896n8roe7Nquz7vWXrXjfXQn19uUs6VSVw
+  Recipient associated token account: 4pWJBNmre1Yg39XjVk7Lj5TQVGkebaJKf8hytPtzBGzS
+
+Signature: 5sBcmDKx1ZHUfZV5Dz2a4vz4EK6MnzjsUyuMsKpJgQfhQGX9bbhhXSW39x96rBEoX9T9atYk9Uqnv2vxRUvrcj8a
+
+
+------------------------------
+5. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 Fud2SX3GR45k9tFiQLHw8vpa2dFDSzE8dLowHR61YXje --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: Fud2SX3GR45k9tFiQLHw8vpa2dFDSzE8dLowHR61YXje
+  Recipient associated token account: RTb3ktgFHS4218TPDsNZBGZHpWuqw1djW6E8CGWbP9k
+
+Signature: 2Xb2kFA9Tw72nSTkaDt1mms8Rz1VikU67xXmRG2Tpm2Cx6pAhPTnFtYYuqYiHzmqmjqZKMwAeap4edvzjZJdDRXP
+
+
+------------------------------
+6. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 D9rxsg7mjgh2vggEvaHC2bmkcoXfaHUkAHpPqFgQqw1M --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: D9rxsg7mjgh2vggEvaHC2bmkcoXfaHUkAHpPqFgQqw1M
+  Recipient associated token account: Bq1ti9XJKbYigDZnYVoVR6HFziRpEB7ZgcjCjzWad8Qg
+
+Signature: 4Ws67Gv3QS3XZK38hebeMoiJRrHtVyvAC2euq5t9cBjgkVPE9dbjv4C72Cuk31H27bzY87ocnznNcaLzoDVmmqmx
+
+
+------------------------------
+7. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 HV2rtgAmYvcFmtepha6uunRbbuw35HphXi9SC7QwqRon --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: HV2rtgAmYvcFmtepha6uunRbbuw35HphXi9SC7QwqRon
+  Recipient associated token account: 7XtQ9P4DD5vwCxbcvbRSkihR2oFG87r4DC5mEsRXaXn
+  Funding recipient: 7XtQ9P4DD5vwCxbcvbRSkihR2oFG87r4DC5mEsRXaXn (0.00203928 SOL)
+
+Signature: 4NG6LxYqLhdmxAhYLCCXsJvGaPmAvC4QuZ4tR5Y2PDszmbfLDNZcc7bqDifGFntsV1U2wc1vu2dx7W136iswxepz
+
+
+------------------------------
+8. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 GLz7ZDy6K4U5vGZzpFZTZhuHXuVQ7LcBwzj97M22RcDK --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: GLz7ZDy6K4U5vGZzpFZTZhuHXuVQ7LcBwzj97M22RcDK
+  Recipient associated token account: 8FpNqPEvbsbGJ7suXdMXFovxbR96hxGywpjBg1hmQqsA
+  Funding recipient: 8FpNqPEvbsbGJ7suXdMXFovxbR96hxGywpjBg1hmQqsA (0.00203928 SOL)
+
+Signature: QcTHtjkDor5amLxMmKvsr7jbFtpvN1NRy3WRWVoPZM18n17j6ijKpCYDViMNBPa35ALhpSzN3rZEpJuyKxwtRQy
+
+
+------------------------------
+9. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 J3TvfDh96pRgLUx3yTS8YXEJ5DmAbdi52HMZ6wyY9A4w --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: J3TvfDh96pRgLUx3yTS8YXEJ5DmAbdi52HMZ6wyY9A4w
+  Recipient associated token account: 4zmQ6GDJR9ZZ6L2S5JsDaVQAmKLokJWnWKW57Q52MkBY
+
+Signature: 89cWfYPzqA5ZekSSnswNAJReGRwYaVKfER7c9hji4naAjMxo9QwCZu4GpP37pV3CU7PgwDpAXVfrLxEYydAZroZ
+
+
+------------------------------
+10. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 8djx9DxrhthXo1wTwXWx4AjqXZ3QEYvx22jRhzXq7DWr --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 8djx9DxrhthXo1wTwXWx4AjqXZ3QEYvx22jRhzXq7DWr
+  Recipient associated token account: 82k3y2tDzJTy2c7igjH73icvV85udcdh3gpT249FJphE
+
+Signature: 2bPvgShbJuVzD3GgAqP4b1hAsY7ussR68eXUDkASByyEp94H8sMuuZABKbhmMXUnBEHwPqYAtYZ9vzKKHb3c6DjX
+
+
+------------------------------
+11. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 GvyeKnX9GDYw6S61kQCdEwLoGWdtcAFMrUBQYPJCK2Jv --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: GvyeKnX9GDYw6S61kQCdEwLoGWdtcAFMrUBQYPJCK2Jv
+  Recipient associated token account: 6hnT2JLXW24ifwQ7AB86trHTmFHLs1Xs92RhhrTQQooS
+
+Signature: 5ZgQfVjFDByKM91pCBTpAxNv8W565uRAwTtcFx6gpeoZ2RyktXS9BErseBN38V44NUEzcL2UtJJMd9NiMzYvmYDZ
+
+
+------------------------------
+12. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 5Bz6o1ADTzVmitVL4xBXesS9M4b4ijUPc8A7gCRFhiPX --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 5Bz6o1ADTzVmitVL4xBXesS9M4b4ijUPc8A7gCRFhiPX
+  Recipient associated token account: 3yVrUoiGdHTBBswga78WuqNBZK1jQZDPVvBQLPPJNMHS
+
+Signature: 2CWGhhceyGQ9HaHTnkhZzpsWNbALTH1t2fYanR6QdBJ1G4o9FA9c5s4tyTk3mrbF23ejynZwvb2mT2MzvDcrwNvv
+
+
+------------------------------
+13. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 3uGDrb5bAshRTyEKmk4PsRB3TMZhhPBuFZ4nLvJhuSmW --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 3uGDrb5bAshRTyEKmk4PsRB3TMZhhPBuFZ4nLvJhuSmW
+  Recipient associated token account: 38hy81d3kvEbr795vxBPbqQ2t2XbqKt9ioy2mXPiMTiy
+  Funding recipient: 38hy81d3kvEbr795vxBPbqQ2t2XbqKt9ioy2mXPiMTiy (0.00203928 SOL)
+
+Signature: 2HQNEjLHskyb3HFjnmSEes9HSMT7sdjD96BhqaqsaCPcxhYvSRRjAr8jzoAnThXmstMZ9zCF2dxKmSbX9hXDDYhu
+
+
+------------------------------
+14. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 7SjwsYkp7PtdTzfz1UusG52P2ULV2R9EoVHe7cYkd9jZ --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 7SjwsYkp7PtdTzfz1UusG52P2ULV2R9EoVHe7cYkd9jZ
+  Recipient associated token account: 3W7ADHiDjCbyhhGD4CoUjQ7Y4JNWPdxZgrfYSoma7fXJ
+  Funding recipient: 3W7ADHiDjCbyhhGD4CoUjQ7Y4JNWPdxZgrfYSoma7fXJ (0.00203928 SOL)
+
+Signature: wCriNB4Kw6g9LgA6vELCGgbSGhQnu4PesMNw71uiGAhLKZ5yAKBaSK2vJ4qeHQ2rPCJ5z5caiLAmNxe1BhqNrV2
+
+
+------------------------------
+15. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 Eu7cPoerDnjJ7Kz5TRYQHmJY2BVoKcHdFwXAQcwUFTek --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: Eu7cPoerDnjJ7Kz5TRYQHmJY2BVoKcHdFwXAQcwUFTek
+  Recipient associated token account: 4VGV38K88UsmSqG3tZRuWryK2AzwSyFy5Zdb5o8AWKzm
+
+Signature: 2nSpioW4kpnthbCUhhNkb5mmFXjeSGgFoUpk1SKtfWu4Xn9LXtEENzvHNopt7KpF4dCtXSrBqyoeJBhEniyb2n8H
+
+
+------------------------------
+16. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 6Mr9f6xMJhXBsiFwwx849LpkG99xcqGR4k49BoqNjCKB --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 6Mr9f6xMJhXBsiFwwx849LpkG99xcqGR4k49BoqNjCKB
+  Recipient associated token account: GTS5zhF3vrHabkD9udZNKPpb44PxcWdbxw3gmvwqFmCk
+
+Signature: 24mBTqbsjNXtz6L7k9Hkxz14YrgpoGJwVKFuS81QttDBX4joKmyeip8hZ64zSJrUVyUzJ7mZuVBcxMXkNx5uxZXa
+
+
+------------------------------
+17. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 HdLtJ3FDJpAYY6VwnSrMB4DmZbaxeFozfr7V6oinH9KY --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: HdLtJ3FDJpAYY6VwnSrMB4DmZbaxeFozfr7V6oinH9KY
+  Recipient associated token account: 8zH9YagchbNmG75uafwsy1FeiFFKUnK1JRVhYEiBeKV2
+  Funding recipient: 8zH9YagchbNmG75uafwsy1FeiFFKUnK1JRVhYEiBeKV2 (0.00203928 SOL)
+
+Signature: 35CySjuZNdGiXo2YvUhT4wf7mCbi4vphfxPGW4ca6Kv553P1g2bb5LLGTifJ3sePhSN741kdwiDb9AGeeuT7cGiH
+
+
+------------------------------
+18. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 7ccHwqEbVcmk3QRxZqK64xGMjHMH7zFwwJ94GNVkYNii --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 7ccHwqEbVcmk3QRxZqK64xGMjHMH7zFwwJ94GNVkYNii
+  Recipient associated token account: 3r343zuK32EQApSKmuEMsygqP2XhNGz3UoJvYiW6kQ3T
+  Funding recipient: 3r343zuK32EQApSKmuEMsygqP2XhNGz3UoJvYiW6kQ3T (0.00203928 SOL)
+
+Signature: 31uiJP21FEZtiVYzabvaGEdd8d3JmUTqa87q63Yz8vCxC2MQxW9wBssj44SGKvNWYoQFVpfVxgc7oiBXytv9kWSs
+
+
+------------------------------
+19. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 FRCWHFb6b3pCVmgZNbmj5kVSboZEfAmBCvQhWAoNLHG7 --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: FRCWHFb6b3pCVmgZNbmj5kVSboZEfAmBCvQhWAoNLHG7
+  Recipient associated token account: BqYK3iE96pX1DudetPwFq5T6sGnyDPcrAvmWAuL4vWrc
+
+Signature: 3jJmFC49jXiMBi95Z8NpJ6uWkaxSaDMfXktucmx4xcx1GEHMBmKrTCKqUyADjY8gpHjUq3Ai5o6hbhtq8fNE658k
+
+
+------------------------------
+20. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 DWVU71kf6hvTEAGkaEaZBHfQZtnfR5C5J4y8NsD3Sc4s --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: DWVU71kf6hvTEAGkaEaZBHfQZtnfR5C5J4y8NsD3Sc4s
+  Recipient associated token account: iN1sbDgeoqbkdEadS5WPtYWLSt65ttiaJgzC253RCSN
+
+Signature: 4T8kv7mDbMngM7N9AXi1kun57DR3LRC2cUSvv82Zy1LgS1v1Ut1M5iQQzYCsumneyFUYvRfedYfmPfML9E5h3mKn
+
+
+------------------------------
+21. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 727tqVsBFa4Ucspf4M4tmhPt2w3GeSjVsys9bxZDQRjw --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 727tqVsBFa4Ucspf4M4tmhPt2w3GeSjVsys9bxZDQRjw
+  Recipient associated token account: EVERbBHNi6BBwtfCMhqbkzzKTbWt9PRXDiXgbVYhUVTQ
+  Funding recipient: EVERbBHNi6BBwtfCMhqbkzzKTbWt9PRXDiXgbVYhUVTQ (0.00203928 SOL)
+
+Signature: 4UcDaqx1gSptdUPPisL88CaWz3eD2QiwjdH9hBRGT56CD4ApioSJKiBtCxonvWCNa1J7gfZBJCySzNsngRsLAJrx
+
+
+------------------------------
+22. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 BAjdCRwLBdpLEAdTdDj58SZyZWt4AXDXbHJgtVypbyvk --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: BAjdCRwLBdpLEAdTdDj58SZyZWt4AXDXbHJgtVypbyvk
+  Recipient associated token account: pAKWrJ8g5pLwkRhW49ConbdpYK2VRSCASM17NLfzbTo
+
+Signature: 5za4ArfL7SeBKU82tdKRWAJeGqhVmDvMYa3eWY78Lo9fgYTc9wExNmLR1wmRDWNLfkATHUYYTuMZBEqbfqYxs4cF
+
+
+------------------------------
+23. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 BaWHAcd3DwyJ8xjEFsZpmA2xfY6rT9s9aRf7PUtyK7hf --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: BaWHAcd3DwyJ8xjEFsZpmA2xfY6rT9s9aRf7PUtyK7hf
+  Recipient associated token account: CvdnTC9jwmWWBRGdNZucfLJnH85Vb4f7mGwHGBS9QNz5
+  Funding recipient: CvdnTC9jwmWWBRGdNZucfLJnH85Vb4f7mGwHGBS9QNz5 (0.00203928 SOL)
+
+Signature: Gb7hwRuyskzhUCoGwFWm3RyVpaxAgvezakh3wuQMqDuS2LC2kH6Mwg9HUSk4KWHKFFzo1Jn1fgmFPVxVZLRWYHa
+
+
+------------------------------
+24. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 6NVWJmkYhgRssNqAmC3t71YyFwtRRidS3pbm7ue9W5wa --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 6NVWJmkYhgRssNqAmC3t71YyFwtRRidS3pbm7ue9W5wa
+  Recipient associated token account: FBWma7JMk5enQZxSnHPt1sC7jpTtNsnF4z1N661PJ8Kp
+  Funding recipient: FBWma7JMk5enQZxSnHPt1sC7jpTtNsnF4z1N661PJ8Kp (0.00203928 SOL)
+
+Signature: 2oWjiukDw1GvvqL5QE78zfcEK3KMLHWmDKJ4DyUTPQDtVM2S9yzo34rHAf1G7sQDbZs1uuRdpo8fkWJ95BAw5pnK
+
+
+------------------------------
+25. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 2ituiZjmoq23Ts3EL8WGFTWWXhMh9rYvCkjyWTZxz1DT --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 2ituiZjmoq23Ts3EL8WGFTWWXhMh9rYvCkjyWTZxz1DT
+  Recipient associated token account: EMCSaEdsHuSFzQWh8M84gBfSvo1bncRok8ASbCziGxwU
+
+Signature: 3ttw2zp6DaCf6xTu14H9JQGu2SMm77qEZNzkR7KFWBM3U5X4U2T8MaocJPY3pGKZRwiN2DQdCvKX5JjnPGBUm12y
+
+
+------------------------------
+26. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 DmPr5Pk2ie5yLsfkBPHFBG779SQe1XRSdoKiy2Yd7BSJ --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: DmPr5Pk2ie5yLsfkBPHFBG779SQe1XRSdoKiy2Yd7BSJ
+  Recipient associated token account: FVCVbpf2UGkzEremgaDw7npaQNQneHLL8GoQjimn3bpW
+
+Signature: 2s7A2efYV8sePxmzCiRMc49PvLxTXvS5mx1ATteWR7JprZhempi6cecEAoeFUp2BEVkhHD1itWekqc3ui1k8Adtm
+
+
+------------------------------
+27. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 FFTzS9Qc6yNXuH7ZkeuFNYDZ35VgNCdAt2uNTeZ1atVC --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: FFTzS9Qc6yNXuH7ZkeuFNYDZ35VgNCdAt2uNTeZ1atVC
+  Recipient associated token account: J5ngJrFPQCYgKvhvWnxmN9uwuk7mbY1Q1o2hVBJGn3N5
+  Funding recipient: J5ngJrFPQCYgKvhvWnxmN9uwuk7mbY1Q1o2hVBJGn3N5 (0.00203928 SOL)
+
+Signature: hwxrxKXaiQuKHFsSrrXEXBLmjCbZ6sqhuYCUiAxdXFKc5X6oznppfvxzx6GTEYJgmaJqFzSp1UvQeotwY7fJ6SV
+
+
+------------------------------
+28. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 EiG6CBV89RM8hGLKNWX8pJ8swhTGbwUBCqAeXKL9pV4S --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: EiG6CBV89RM8hGLKNWX8pJ8swhTGbwUBCqAeXKL9pV4S
+  Recipient associated token account: A81sUmkqW43t5Gvn3YmboBzi6MEy4ny7mRAexiTbeKAL
+
+Signature: 52i3pGbiWFyTUdJWpoumsq16UPqKLJgD62PQMcuPYVC3FLqwjtGux9CN2BWVzHrUE3HWdx1vxZp6ec236sxvnXAN
+
+
+------------------------------
+29. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 9eP3S8PDjtz5SpDKdVBU8LgVT6k4wA4EQcV73tJjK5xM --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 9eP3S8PDjtz5SpDKdVBU8LgVT6k4wA4EQcV73tJjK5xM
+  Recipient associated token account: H15fvZMWPrGzVz2ctUaXfszdbw8CsizHoAxg4P2TpFPe
+
+Signature: KrvC6R3Z1rfjxpQam8yYnMGBU51fVSDXj7qxcpC975S8o5eRh44BfGY21FZqeGEbJ4Y4dshcJdVmKeXtTVKXLce
+
+
+------------------------------
+30. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 BafgtHWazo4kWMqW1ijN7XKma185VYFyAWH7VFJA1JdR --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: BafgtHWazo4kWMqW1ijN7XKma185VYFyAWH7VFJA1JdR
+  Recipient associated token account: J8y7hhUnRMxF5qbH63ub2ZX8HB4ZvHfsVdcYrF3urLnT
+
+Signature: 3dHJTpxPac2WBKwSYv4MzgBjLfDzSTQc4pHSXAoQTzS9K9CpFHdvkDnc5CXnK4LSno1dXCrYxSQeaPNJACKrTFGG
+
+
+------------------------------
+31. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 8zB3XU96PXgNhFof7nZSfDaGG1aqcMr6KagdV5YJ6GNs --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 8zB3XU96PXgNhFof7nZSfDaGG1aqcMr6KagdV5YJ6GNs
+  Recipient associated token account: DUtZPerJsTDEUDn9TwEUzEq8SF7YsERVj1ofK7DwetKY
+
+Signature: 4y6pw8aXos6ooQevGER3bWr2VQVMhy88VketEzCAKVBy4bPwkW2ZE3GwrZ15dyfKKVQ1PtmyTSy9hqSESsTQBqTh
+
+
+------------------------------
+32. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 FhLi9GkkUujxPoyEkML95Fnq65rY4dvDG6fGDEpHL2Ty --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: FhLi9GkkUujxPoyEkML95Fnq65rY4dvDG6fGDEpHL2Ty
+  Recipient associated token account: 4smXiJSdr9R1hnPEXNonQotBNCaBqiEpHLb45fvG3uHZ
+
+Signature: 2L1aJyh8aRgSav7jkemkwATL9dGeLuN9PPaPcQXg7jsSdxAS9cNW5ivLFcYUW6jjzCqAUEaYWN4qPi8Vk16ckkBh
+
+
+------------------------------
+33. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 BNnePkxizMNmjok33YgXnW1SFWXHbVjbWF7q9Q9rCtbN --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: BNnePkxizMNmjok33YgXnW1SFWXHbVjbWF7q9Q9rCtbN
+  Recipient associated token account: 9FK4CjFXofbLK4XTmGVaKXKnrynDjeVS9ktUakxpHPpA
+
+Signature: 425h2aw1w8dkGFHiWLfxaEJC8PTTsg9wgmJTWCydTgLHMPNDBdyFpQ3qcTpuyYJdQuzB6pbfLMRKwmN7AL7w3FLG
+
+
+------------------------------
+34. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 5jEoKBmgqfnpwtrcLUmmVN8To7b8Pn3Mz3jx7WZKearS --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 5jEoKBmgqfnpwtrcLUmmVN8To7b8Pn3Mz3jx7WZKearS
+  Recipient associated token account: 8FdoCfQSpASGLpE8XE7ZqWTp353nEFGV69oY2zZCNYAH
+  Funding recipient: 8FdoCfQSpASGLpE8XE7ZqWTp353nEFGV69oY2zZCNYAH (0.00203928 SOL)
+
+Signature: 4JTEFer5rzL6xXmiS81RUGCofodW2eR5xNLaH2GkQ8Wfj1Sgk9SSPTCH3g2sdbSEdPTbbyB2aANDC87urz74Kt2b
+
+
+------------------------------
+35. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 6o4Y5jdgHLRBU77XkJehsFfKQXRMp3riCE8Xv5bZ92gb --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 6o4Y5jdgHLRBU77XkJehsFfKQXRMp3riCE8Xv5bZ92gb
+  Recipient associated token account: Fp8U6LKD3s4tqAFui8Ez6ESTefvaSgTaMEkgfVwRgRHt
+  Funding recipient: Fp8U6LKD3s4tqAFui8Ez6ESTefvaSgTaMEkgfVwRgRHt (0.00203928 SOL)
+
+Signature: 55hh8dq6YjupVz3SER35zwVaVc3oRN12VsYy8quKChu9QBzNdsHnKfaprRwqvyk99nTEWGBEMb3o9bnuBjRzbgPr
+
+
+------------------------------
+36. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 5tmgjr2R8x4g3GTByNZNXorkPs55Sk3KJ3M2MoXSwvjg --fund-recipient
+Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+
+------------------------------
+37. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 A7ze1Hvf9LmCe57j16SGEGW9qqDcfmVSjg7acnCVKQ3B --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: A7ze1Hvf9LmCe57j16SGEGW9qqDcfmVSjg7acnCVKQ3B
+  Recipient associated token account: GySNk6qFQRiHce3DtWyWnL6nsNCcuXdKPqYZhxSUMwZb
+  Funding recipient: GySNk6qFQRiHce3DtWyWnL6nsNCcuXdKPqYZhxSUMwZb (0.00203928 SOL)
+
+Signature: 47Yd8VVnyn5gfgA2Md1CgzzehyDbPD8D5p7UTsUDnGhSEQu3UeV4fKZhZmHcB3TzkyC3L5sSrub9EAtPhwRd6wkn
+
+
+------------------------------
+38. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 7K2z4qdgJW83La1h3FEeRNqZFwPmr7eS1L3QfujSSGcc --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 7K2z4qdgJW83La1h3FEeRNqZFwPmr7eS1L3QfujSSGcc
+  Recipient associated token account: tbYf2YhS98PbP6Vm6wGQRMu6cj1MLHWZXXipTXR7Kei
+
+Signature: 2VVMdm8HKnTmN2anNgisWBP1HWpH2XUV9EzHCgTdToL5WKHgBYq8AckQa98NJvJPBPUWSGWDVPYRq2qQmokkxriq
+
+
+------------------------------
+39. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 3nojGM8fWNcCbouX8RPGF1TonAw6YoGMfj5gEK8fzGEq --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 3nojGM8fWNcCbouX8RPGF1TonAw6YoGMfj5gEK8fzGEq
+  Recipient associated token account: 7GsqiGMUst6aUrWngBdKKoRsm1EkuH5TqCtTuJQGuPh1
+  Funding recipient: 7GsqiGMUst6aUrWngBdKKoRsm1EkuH5TqCtTuJQGuPh1 (0.00203928 SOL)
+
+Signature: 4XS7kxN9TCUAuaoTKrQfcuN8rErMJjAMFLVX8dSKPg8gHe6v4UX5u7geceQCy5po4Swm2UkWA7Qb1JkBfe1tAM7B
+
+
+------------------------------
+40. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 3WPtyTSEedWfRnd2h3f5mZ7Eqoz7JRm3m6SWbRBJGMsf --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 3WPtyTSEedWfRnd2h3f5mZ7Eqoz7JRm3m6SWbRBJGMsf
+  Recipient associated token account: 3Rbw5rGCabnAdNmNuDmQjWGadbGeacgpSG34EkEuzwSn
+  Funding recipient: 3Rbw5rGCabnAdNmNuDmQjWGadbGeacgpSG34EkEuzwSn (0.00203928 SOL)
+
+Signature: 2vaRmiD9enut8YVWBLHNkyi1jFCqkC15cFxsht1YLeZRqgf2GwRnsiQMyp1MXiojbszAGgPQYjV5DTdFfAMu8oiq
+
+
+------------------------------
+41. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 49eWhcbGUb4uKiP7EZE2c93SttvivfJiJoEAqKMQNYot --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 49eWhcbGUb4uKiP7EZE2c93SttvivfJiJoEAqKMQNYot
+  Recipient associated token account: 6b3pphVauafh6hjC7Pxsi1SKjDac2bwwWCCNqYsVSjZu
+
+Signature: 3MPmgAAm6XqnUJSZetoGgFWhJNTyoTdawkroRfj4WTg2cEsVPbcQR9TwiKKuyaGikTwSUzMsz3SUNubzQwoXB5QP
+
+
+------------------------------
+42. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 QW5aFabDe64WFwGkLcfL2eF3WvWz7bmHhTLWXjczbsE --fund-recipient
+Fee payer, 3V5scUrwppTz4AKgWgxWLCa63fs2VuJYm1JVgJsauLXY, has insufficient balance: 0.00204428 required, 0.000524028 available
+
+------------------------------
+43. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 22yttt9wCR3eJ5zqCsQBMV43c3tELYn3HfWnWWhG8KnR --fund-recipient
+Fee payer, 3V5scUrwppTz4AKgWgxWLCa63fs2VuJYm1JVgJsauLXY, has insufficient balance: 0.00204428 required, 0.000524028 available
+
+------------------------------
+44. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 DHNALyxjCzLb7w1RhxWanCUk99KcEYVKuLFB4qm64gJy --fund-recipient
+Fee payer, 3V5scUrwppTz4AKgWgxWLCa63fs2VuJYm1JVgJsauLXY, has insufficient balance: 0.00204428 required, 0.000524028 available
+
+------------------------------
+45. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 GCXgnjKaYqZHWkRGKpEgsd7vL54x6WuAwPjh5Jz6Ests --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: GCXgnjKaYqZHWkRGKpEgsd7vL54x6WuAwPjh5Jz6Ests
+  Recipient associated token account: EbTQ7FoFcuMQoA9iFDwqjUghKX7VbHKLe7pyRSfJQ1ri
+
+Signature: 31RZZyzwWbeBTDwYA5RvmUEpsuKKhnho6tPhcqUzTKrCMXQjevN9aV5rd2CEV9Qrcri8uXSqt4NbnGLcu1mVmHHB
+
+
+------------------------------
+46. Cmdline: spl-token transfer 6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8 4500.000000000 6AZkzeHVjwjLJPp8Je2ocz5GiuKhuzUuoM4gLt1FGeZF --fund-recipient
+Transfer 4500 tokens
+  Sender: 8wGKTSSGADwJ9VGiKUb8ojibpbTVdYj8oB2ueivfCU8o
+  Recipient: 6AZkzeHVjwjLJPp8Je2ocz5GiuKhuzUuoM4gLt1FGeZF
+  Recipient associated token account: 5iz3drYXvJPQGBKbBiosuzhaWWQhUARf2f5AvDCWSRkH
+
+Signature: 2vL197pfHCfh7gYJp77weLK4D39mmvgBXNtHh19BYqq64R5G5TVs1BLkesus7aBGjUFRG83nEVAcaFt7koLTeVfq
+
+
+------------------------------

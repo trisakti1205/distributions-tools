@@ -1,0 +1,430 @@
+recipient,amount,error
+7QpQmN5seAubgTuqsXSH5mZckYJ2bB98BSBJFWMqce3M,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+54XUsz3kJAzgZ6MCMdB6Qegp6hRPnueedFJ1JLjTs5Br,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8wzSq5HivgGinycGHE9uwGyM6hgwexEMvaLkMa2VMx4j,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+AMnuaWe2C9pFDVwb8eR3VSFxLsVoAhMfSLx9FP2bWdD5,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+55d2TK88JL8a3Lku7c5SzX1xTsd7MDb2mhsRoQfCcY8h,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+DiphNPw8YWWHYPbEXEj7VFkiV13KQLbLbCThPAjwq9w6,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+33VNLrJcTjhg4tMtdTUqevmsffNUyyBXyKE6gBMpZ27G,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+GwyGzSLSovbe3bunCmVaH8mz8kdJ47BJBLJ3YCCd4FKK,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+C8XtgqZaF79kyTxnqZnyDNZHxeiDUG5KG6dse4qHuWNg,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7S97yMp7rabb6ZMo7ZUDo1JusxJZ3sS5vAgCVVz8b9qW,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+DK4GGPAFE1ZzJYUFa3d6j6fYpPDezm6bQz5912WxnGwC,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+47kRZkPyumTW5wRydMN8QTieRy2ZpxfsaKcpFNL8gyoD,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+CJS4TCjfUxwRCzw4g5nQyQtFpzkudDKknJ68hRQtwMH5,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+2NKPLCzX6grbGzVRiYPrgVz1vmUkbRGfP6QN6a6j9Thn,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6wi6t93yPySSVWpm9xqm7CHFsJT3ypkidyxA9wS5aGbq,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+2DwQc4EufSNuNr6VHXrWSFuTadPgMz3pYzjLh6kC2qvP,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+DbuzqB1Xyav71GxUaBRQAyoZUjBaUGdcap9erjUsTLu,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+2d5XA8HcWjbSgm2WZ6HdRsGC8VkV7cT4jjumeRDwi58Y,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9DxANBGtfHKzPvvMzw6WCwAfztzfmmYerLr28zVz7yPJ,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+44b1bv65tnkSwxzQNh68BGWQdVaUCmCPfFYfN5ipFzCJ,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+EoCvoSP3UAW5dXn8X723U4FjmhxidwtiT23Q8FR7i69L,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+44gGKzMBGTn5oLhkdaghCnWmmqCPxnvs34ueUeDvuBsf2,4500.000000,error: Invalid value for '<RECIPIENT_ADDRESS or RECIPIENT_TOKEN_ACCOUNT_ADDRESS>': No such file or directory (os error 2)
+8a5LEDPo38tShPApt6H2s5HuemPxMMD2EzhodwpprwKH,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8CjX6BHJpESRbATfYQuFxkGWyRhx4xZbnar6mfZBSrQA,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+AHV7RJpu5SjDw5cEjRobRGKS86zvA3FCowy1jmKap1Na,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+FjBPTVQoNiXFvKSXK6AomfTTqXaiwAC1VSbg2kbuNQPK,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+FBSUUoHxBesmKepzHGJzJeahGj8CcSbQaJ66JVTZ4Zg3,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+5yAbs4PntbVdtnNzwiGXWDUgpCk4XCBrhEtx8zKShst,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Hnm9yAr53nzLnNSmiEd6NPVRvKGzza7oBtDtUqNVB2e9,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+GF2pV1uRLccFpeVrdTNyg7izh2MiKzCT6m6Nm3R4q9oh,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+CacAmQgrXFrmB5et4BMdVugw1F8rZFBeMaaBcRDFgcNd,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+6b2HqAf44nUJmzBMkaG4KjCK4w9rLxN1aimiPbnkdX6j,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+73ix9Q8sX2VeXFfhmFgb2aQHFzJgzvnjpG4UXbhsrnLD,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+71UbFDF7Yc96nzaiyHTN2mSAFTQLQ7mgRjCmHPdGa71V,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+AzBaVkLVoAgXctWWyjmCo6ZZWxDEGXD8Jw9gv7hzKohm,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+EB9eVcN23YL1ocgmKg9DYYCxKuXQx1LziWRMmtJNsjUP,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+12wnEZHQZL1T4z94pgoRAox1xmrw61GXZ3gUNKr8RWCA,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+3ZFCwMB6NKi7pPUMeXi9x4yH42j5wMmrBR1Ymhx8rQGD,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+E8ipwCn88U6hqMoDYBY9xhiAbj1Kc2fHdUXxLVJKBMB3,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Gj46zAo6BwFpBfUkcWqAJPcyyJeAUYZEx5DuVXRpQBZG,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6rAWcNuMtrVwxDDEzU8prG9YS7uo974htu7PVgAQrgK,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Aih2qcsevJfjUTkbXwdTAchtwA5FfyMbyusLaUfhKzjQ,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+3sFKuzKJkRmW99UwQUHgQdjmEEkQS3VFVYNgGsbcDPAH,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+F8PsBdkJs9MeWRTA3WjPy4N8QFn5jZj2eR1BHQaxYjnF,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7nVk45wg7iHxgk83dinp3imcY2dtgdMZokvGH1w5bXjo,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4BzuG8jnU77jCFPSBe1bmacE6f5wBrPnbNHNan3Gsvbt,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+H2wasZN99aibYQbUhYTdc3hHfCRT7yssSEsiQQCtJQf5,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+ECKf1WPNscHLaoNuCptWcYqtbQdS1yn56uRJQAntRQNH,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+FCTrGwmhe8xUPzJo44hR6xjrCZRhZviqYSkLXyDULn8a,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+77t2fvVpvhCJcnN9V1ostroiWN8KV6dgX518hsrcK9Ze,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+HSYViyjd71tHpPsMUf23vykTXEoJheSJteUqCL4B2frj,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+C2CrVCU5L62bNSx1CVuinUFXLSGftiWwk8DUx2pEyybN,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4BdJtTsd2XX8NC6zT7eQN58J4rhvw2Pn1u3QhLa8C25C,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4Tyd2tRBXNzZP8e865K7qrLaXAr9vb5mLCb3KLmHcLwy,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4HNDNbL3SbcMGT9gbN36bLR5Ypy7td3pHGTorwY5UngH,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+E9NJErbwyEELDaZpHp7hSeB9vvz5M33KuCwdpaJCX1m5,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5BaJgegYAKjdBujyav6juXZHECYweayH5Cj96ZWmgeJt,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+73wczFonajJ4EV5mGW4ahJhNNNc2NPLsUp5UWWhjmvst,4500.000000,RPC response error -32002: Transaction simulation failed: Blockhash not found 
+3PFJhTAEpBgu8AEFhf6kDaYrqp7U4k9hYQMWuvuLXmnL,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+3DYHHXc9aE23dY8E4zp8sPqhXKAsFrTfgmHrJchVvBW9,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+EWBcSDbxRWkKV759xGjcAyUnWKHVk6PN3b6V12YYfdPM,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+E3m39ZvTb4eTYQucbpue3BcVGsRyjVn1um4kgCvB2S7J,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+BJmg5WcqhRhjG24k2NZxbTpjSnWFBwMuTeBXUa5A9AgQ,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+8f9B9A41HkzqAxQJMKMYhBKjAEMGjdqpesCHRku3naTz,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5nHsfvA3DirG9ReamBaSPTS665kv36X1wMnGxvpKb1Xh,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9HRDsCc8YmNHAQ8VRV3xbw2WQvtHNy3ojpXHasPoY6td,4500.000000,RPC response error -32002: Transaction simulation failed: Blockhash not found 
+6xUJfC26VHVrj5ygujmBkH8yXLLekdrYTeVqscsqLSMX,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+3G4QJCFrF5VfCG59BgTFYLYWPT1192eTDtbzTkgYzmsq,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9U8er2Hu5odCuyRpaYciJeT7RZEfNpCjmiSWr5gK6Br7,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+75x3FqwpDe3LDM6fVegotE9diKKeT3e3bU1EMMvAKgXc,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+H68aNWVDGZhvvcKog1cEX4KxvfZQ6EiaErruwzAGJzf2,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+HUdNx6cxK2vy9ZynogRT2f2T1r7DkYVP5ksxV3RmXXBw,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+C4gumCCuaNhr2gLjxktPCZ9cqiK457NEB6eci26maC1s,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4x5g49Ra9JaBmtjJVSkuKUoDCsndEGKBZZWkLyvkwn6f,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+36nBAsFkcybksZeRzVszsTa2ZFuVHwRHSxahfmkQgBjj,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6p4GxTCaWfkAvxqvHGJVwKK6oJHcMCD6Qpvy2SdyAKWE,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+XpGY8utp7QDaJxhgAMoL4tgjgELVNz4eKdXD5tUwkZf,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9eGL6BDwgv8dx87f3byWjBUJXAa8SwMHWVHNTKKgqMNG,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+A1Eya5hXXNTjxXKndM6cQKSRW9LyKQ8gb5z1iraE63Ft,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+3Li2xi3D4Kh1dwDM1C43hi2a4t4uPNTt28nT2tgmHTHs,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6CwqtfZ3gAzhLQaHZ5GJ4BHS9V8X4aDTTFQWYqoxEQ2o,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+7nVHR71JcAYMfXJgd6Wkd1BAQv2La6Bo4Jw6JsiGcAN1,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7EEzDEajU6ZZV6vLmamdwGMBh5Jv9xA5V93LiEYtF35w,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+67sqe4CCzaE1ddp41BPwa11bM8Ld8MFUFa96WPezqJEB,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+AZqc3GBUGAwzeVeANNJKqHsUuAAaMYqpaemv4WBLocs3,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+7wfwL4BWgjYCKvUFFtHGyieRM2f8T4Bunq1xbdyUebeH,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5Qy5juYVBdtXAWbVrBDW7wB8UE52HqpBeCZFf1bWhUSM,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+91tnBLtmWVfqr456sQhwkhhQgKRy2v4Mv2BJPZ6Fcp43,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4dFdQLVh45EJsArB2MMmWawvHAYWA6NTdNT9LhELFkNQ,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+GUgta8kJUZefK71a7WvR1fmvRA2LQhoh1v3o3xYmy28G,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+3qMXpaHi5RSphtBCg1xKo3VQFyGyD174CERuvXArMQFa,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+DxdPDe76H51nYYDJ8ro55NwKp1Mz8dWJvu9Q3xS9wpxU,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+J94BAroQ4GUqntX7sY4DduAv76wiXb8iJBT8SuYXoozW,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4FRcffBTnMNrD3RgWnWoznSKWY7HB6EoYd8cWMa8HMmW,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+8REMhj8PSGEtgmga4uZRfTMhJoarCD1wEz9JtijTthmR,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8UdRD1JaNJrrTNm7DJbnsKUA9XFJdYyxHqzKQYWbEGeB,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+UyEQKrpx46BtiCgFQrjgx6w4nBj5RsVQZRg2X9tEWue,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4v29ddwuMoujsqoww8HwYENp5wzwxdwijP6Qi8EFHATe,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+DfPFnqMVEuxX4vfBuScKXuaQJ6Bb95ubJvNMDTF3Q78B,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+HZc9i5LjeVUe9NLLDy39fExX41HZhjQy7YPbZfVuJxGo,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+99oCCo1NiaAWUq2ZWcbdHi12P1gp2n3Xz49y64pJxzxp,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8pJqPzHyAc1L1jkyaLcM1C8RaYAqTv62FRVXLekjS6TH,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+83pGk36KBqsDfdiLUsrjx12U2PGouttfGxboWyuRB9Td,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6LCdFE3ciWyEH2u9Mc6MKnpCEthqLZy3UyivAW1pqJ8T,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+FC2wRavf3eaQCDfcc4zyd7gCtqXy34qrAFsG8nLuRuaY,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+3SPzjNst3pwjWqfYVhP6qVRzosFEp98rTNkoycXQWWUQ,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+G42wvdog6YjA6LZBwKugbgCC5rU8pesVcFpYbFFbUf6X,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8n2AAXgkytPTtMym2NDohUzfcPYZQRU6tyyaKRjun1zT,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5PSsc6v81o2QZpwKkrBCQwBbMn1z4TfBmqhPhwJSXt65,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+93X7C9frw1Qwht4eihfk49iYq2sVLZJ39VdmB8iCwNNi,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Ew8AkS4J3MDg1ovxjrTh3RkdXQa5Sb1RqRLhAbLETxWg,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+91H1mZTqmDCRkbE5LMUcVuqUDaTRcfnJjFTaf8DePrAX,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+DhmvdtKr7wSaTjN18NgRs2x3vM7wExghxMg4i8ZTrNtq,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+ELvoXpNeDKm6tWw2vPATJcUG9U5HW2sbhDBKUkS7YF1j,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+72Z7Lpn9RPmi6D7Cm2UtU8NekcjbG9mvkf5ZqRAwXFp2,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4U7XgNCko6F2cygZWJumkVMHp4vuad5EVuT6VW9J1fJN,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+HxknmWc6hAnUWz9pFD7KNnmRH3wrk2tfmj8Uqbjh3iZZ,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+CEo1qAojAP59sdWNbxmNvX5yhScVwSfzrrabFSDedEoS,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+CWoJVDSK2Kh2KncjRq2NBL6aBbnzEkcuBCsvsP9tAAyv,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+HdXC7Y69AcxkCCdWFXnXiw4E1mks97kg7GyzSYEMqHh3,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5MkdgzogaobthtJiSfLaCCfi7s56YpZKBTPLjvMhmBR2,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+2iRjcYUt8mq6CNB2N2RiDGTEvoXbR2EzxeDHA1XWb87a,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+A2frPZaaPuiH7w1LpqFp89wTMDW3wPirEXCPBHgDzPE3,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+FE1u6VLynaQp9WZAkVpQqL8fpiegpzbwuZV74dxH6vjt,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+DUzcWwQWZDxfCWdcQ43uJCxQQGjB44ye6q1WmxwMRyFP,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+78CKuvSL7KsS1tACHrNEdZjmiPQVk69Gcfw5Ma69xR5o,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+GzQYxckLgqojKApvhwqkti5b6bpNwzeeFux9687dnF9R,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9Co5qvoQwA38kjtR1EgJ7qczavVVaxNSfV2aG9FMWVYo,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+ALR1k2chA4KuZAd8omfvYVgn1xACsxqfZ7evUE9DVBR3,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9f87bPnQzGqBHeaTEhB8AnJXTXpTEaiJPJ7QvWMQ3sky,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+DvezbpNjfmF5mKfLkxMoKzDUsym3fhRd1Yw887ovDyzT,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+HNmUtPJsTMEZSQYEMJELbCvtt4goXEeBTiSaY4AnfRhF,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+3TQFqfyP1WCwFChC5ph92kSFsKyGKqrPiHtxqQ2gytZs,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+2z3oq7cMuZx8Ln2dnLqjwmQyRQHNrVFEgwvMHGh93MJs,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+3fo3H7jA8Q5apCPod4MQhUFiiQoAtFN1VwuvLF7korvg,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+BXLquWmLgmasUcQAtQoYeRoJ3YahcL56ijiVd93KG2ku,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+68FRR8K9kaZTbmxbtR4ZutTDtGag77iE1VuVBSPkBvRD,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5o16c3fk9r8dNzqedAX3rNxkdh3T276ApabyvLXdhF12,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Cd7bMRVF1wmF2i2F27VWpBw9TeS9r7FLYpCxAyAoaSYw,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+EJxGFBnMP48wDaW9FoTTcLsSZ7A267FFxJ3UXj5DYrf8,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+FkG84oeZuWddSFwxrPMLv7j5RDe5iQnecA9m3WuDtAeh,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+FUdmSk2GW89d2UaW4xSrR1MeV7nqh8Kdj4K9hRhaQPi8,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+C6uGwSPRMUDkYB9Nh7P4SybDw7T9wLhg96BsqwxQrsPw,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6zRkdmLzWnN9WFgnFc4oUdo8ajKtqfcKi8vHJVfQDgHT,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7EVdRHNe8LUBhT8ynzUQ435i19YffgUXfvwHfDVBw7vy,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+3SAVJhTxFrquRY1xyapciV4hqKvzz1jCXo1SRMLjYUeY,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Hbdjbyh5e6Pg5s4HPErcYjoFYAPiJ3dgYgGB34ew4EgB,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+DdA2C5AWR2V7nV4WPnpGty4Yik5ZTkbFLBpGdpnGzeJu,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9GNcuZdyjUuByNw2hhCYezLQLsiXSYp97BUsUZN1pEiy,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Gnawd28DPgS3fQJdhqpV2VHViZPV6nNSZrYAXCq1oVHc,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+CcHZHKqQsgZXk1e7vNSZJLzU1jdaEf1MZr2yX8k2CJCX,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Bx4ubF59fZQfDSh9T4j5VQgd4gUmpxN79gBo7Pvcytu2,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+A1vaWkG3mVkeiPcb3J5Yydm5dp2EKUxmH1xGeBuw5mFf,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+AiWsJhduoMhC9ufRe4YfV1hgNCSge8YucvFi61saVr1A,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+FGbnr4bWWZGp7V1tm9NVfz2B7C9xuRPKVg2xn9VqUuMF,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+98kgzMN5wsaMKAQfNnWrapSVSC1aYK6dWCN17jZ2etSf,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+2KysXGDSzrADRMLfVSaF7HdTzzR6BcpMQNEuC5GuMZu6,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+DqCctUvUDMXFhr4yQxRi23a1YL2ehZ4h5VV4onqbj7n,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+CmucEUXaY5HbR1kNmNf8xZpJbSTzVGW1H4f1aR5DhBhh,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Bne1dHxAjaWKfwgj91dJBRncqdpYc4w7rPrnDn2ZETAB,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+EiuxJVWXNsFyTgtquegWzz7Lz1tx5ZPGjw6mD6VSr1kk,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+GRUNjiubVHJ9DAJBwPHpLKBK9h4GszwSsUnw7PX8rM2D,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+GXSUHXwKKhwwHU151rFniH8WHA88ydNUZnLogcwd7pgT,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7quHw1jr3KzYS9ubvcUpzAy4S8fsXN2B4eAnhZLZejD4,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+FkTkbQ4tVuHAJAedm5Ah6zCznWwoFQ7Ye2z1dvHFYFie,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7S4aKU2zthYxCc2ps5F4XpadNMvJoRwU96TANs8jNsHR,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4n1UF4ny6y4Uo5ffqXXaykwRjJEdYUZETwKQFpioddhm,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+FBkSXuZ58ZTXB2qJpHepub6LhR6DmsMCYhD95tbjN5Rv,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+B5HUT4gMie7QgRm4v7HvD4fAhMyHjXHtK9BSvtAdpirp,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8fG5C6QAGTa4M4cks2iD5nRGaSusxVgmyKGBN4CZiKh8,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+BvpqrNxPXJJemYuKntHcoBMrEcX3eMCbzmKaQcMDEPWP,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7aARGX4DgNrsKn4Hd4vjU2oqm8Syf8Lh3HYUh5ghMmhf,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+B7GwvNgGySCvnGNABXxJNjQVdqCEbjCSQ9DckYt2b1P,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+F1X5rgsymnVxt95cdY5TyPCr9PPdfm77p9e3DC2YyTAG,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+5QnsXqgwUQVitBsSoRe7LftXxmetPzBPjxadFKRU2d2P,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+3pgufFLtWKoysKR3GP7F1raYYnA9YBPoRANGZcbzZKTZ,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7PJBTT8fvaoFWUytfcaZCkLiLPsZiNkJ2gj4GMizcXB7,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8eg6Rq4wCLALsRZ9rNFud7L5aCZxE5udRsqnkWUmecsc,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7AMCprzVBNHXXR7vC1BrG7Dv1vbJBajwQ8nM4LWD1omL,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+N1QqW5LULxiFVjbDAeDaFNYrGgHY6jUGNGgnh7x9zzN,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+BRMEyjyT9WkaC63Qi32ZaRQEf7nNgjZo25g57SXjHo6R,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6R6R1wdKs9qde7SvwtAwGNhu3sUJxZwbvqbHuTpr9EbV,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+2JceQHN6r6cCTT6UDrrpYXMyM5CVvbzxGpX7zeq6k7nE,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7ghtEvatpRDFyJ56HcHW6vtFopPDzJyd5danRAqEf891,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+2WDXtKGSnQqsk4xJ93sBxkRPKrPmvP7N8dsCGwPXxUrw,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5vo3TcSneY8KLYuwcm9szA3jCDEdYvjdRvvGuDRMozVP,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4rAYJ5wanB6w8pFrfwjEZo6zxGGYrNSUF84VxjffKNuh,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5unzhgWPsLYbcCMeipzh1ePXaYk28CYtfa4ueSKTWxq3,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9KtMmXVZYkgHJJcBm9bPb8RsqhuEVSjWnGSTbX446VZu,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+3qsmfE6m41qHPVFsaTf4T2GA1uKdxFHpYL9P5fi3rE82,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4itJyUjo8DJTmEdUTTvX53x7Z676A5Rw79rn5UjwnLWj,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+AZQgEuBhJThuXNAjwAi95EjXox6VKp4B81S36HDp9iu1,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+HwLTPYxMBCUxpNf8QXSRCZz5C6B7uVsUjkrGzF598Y7G,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+DxiHwYzD3shRWh7rCiKz2hiRSjhNq3jxNr9bPMQg9NgM,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4b6yQecgZKqoG1Sm4J2UoaY4aKFi6FsYFK8gUQJmGfKh,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5WX8wih9xHYBwzrqQSvatkGYdzdpnknSgrumBP8nSoWk,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+H9kDA6MJWsLEfTqdBUFEAcwFRiPqkxap7jH3DdbFxASB,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+A6tQPUMHAM89EFQDVJ5yFH4Z6Vzrp198HZpsjPNmKFaP,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5PWQa1PWhsaGihBEKtDwpejeDARRhUCTUN3Kn4jY2mma,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+AphdBQKKx96x93ZgoLyNEt77D9gMXRk1WTrY7ZniTMbv,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+5pwxhtEQpCkhgg2zS56iiEuWnyK1jS9riYjCAjzPNeNW,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+CieirU65BsVU2uT8d7xH12iaC6GEd4BdJSwH76s6Gh73,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+FrKtaszNY35Eeu3ja4Tbzp7V61C27H2yN2HGWY8GaSrQ,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+ABrxaLVSaFhx2Wh4JeHQwGerVzjy8sPZQBxarPNMzuNQ,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+HKctEs7ZAYfg9cAjTqtBMmmDvN14sNfJRvmeQZh6ZgM3,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5g9BcpxF7igkPq96z7GUUw3kYSgGRNHrd7jctUp7xn8e,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6j4xuA8ZChu4CybKk97j1dhcb1QGD3on8KNnXrdHVaAi,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+CYT8UW54Y5SMd2XyWWmRqgT9kvG4p3bET4A9ajQS4kM7,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+FjRLPd3sNyesXq2iodam1r3rPniWS576yDgT2MxvkAJw,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+HwLSHg6EtmrQgxwXCQWHggr6vmWNucexJv6V8aUJYqtT,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+CXfdcUFf7oRnNMoiBQtizn1yeLoQc48tAyZu4s1XtWiV,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8ZXuL5LiXptspLzpfwkbmQoYiynxvrU4j2oLhGb6KMtD,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6Kf5v3kzDq4mExD9Jpvj8ccaMpXGu4pvBGxJETeyQ1VM,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+EGE1Fhxiv7ymQgx2KLqkTHNzjVmTU9cm9Sg8QhvZCkMN,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+DcWmmmLvfuZC5utv7goiiMtxNvL9ZEVSQGpqee1ReKCr,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+DwqeJBPtdhoFJso6NWWiazMSvfxPGHgJZMqAK2n8YzSp,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+29Ryoea3ywcN77bfUzfHN45VbvAtZEWrZ2YCtuXem4tA,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+83Z1bCEcFAfPMNESHhtPAnxfA7hLJH5WzvpwXLgijA2M,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+AeTwVxLqJnVexT283JeQVFr3G3dahqzVLWfCDzXta1HU,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4579w4K6uvmRDkHsnEm5btbGgWeJkM1SnrWVZubjvs8J,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+28y3s2U2dtrcxF8bJ4Swg8Qh4hUHSC5mYt5XHFSta2uG,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+AawK2KxemSJAqxnxowwLGpsjLNc5E4KUdoy8wWmdU3dh,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+7icnrcZRvBrDvJyGo5QUyRPa3mCE9YzLEBEKcxRfQAuW,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+xCF6HKcCYG4DTjN4W2rwZCAPGfxQPmGETtUHruEQ4nn,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+FrjJEqvMLEQReWW7LXUTuob41stF91oWcRzffP3Cg79B,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8HTMontwCnK4f5yGVQMoHJRDybYWMqt9xvDddvNyoa8d,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+HupA2BzQuQ4M94zRiNRRMT9bERZxbLRHkdvfG9PhfcQm,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8wrhdLBqYELpZHGSFgi1snjGMd31qW7Cyg3WeqhLwoCk,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+GwaygkLeTYFr3XYwTHJ4RxyTJQ1CUsSMqhvYWWdV2H1A,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+HKYEuXUv1HX9G7jZGytKEH2nPz3NnAzEbYWxUNpiZdyX,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9zbEBTQNz1AUoAqtm39W3dZFvPApbx3w2JcWnWQPoNGF,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Btv7oeR9phVMNYT7rP1tCHP7FNQDk2whcnhbEgA2GU7P,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+FQ8wf289eyMAHd787SLY6oE7hawN6ESXtUYZdSeEpaz8,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+DdY1tZLNJ12KZKSsFD3VAK6N1SceRLmQffXVKRthnbzD,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Cn1f7NAvnLhgcUW1GDg3CCmsGJzaVaizRiXfRwYa49D3,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6D6b1WxuzQAeE9t3dWAALWts5Pp2dHVgRfV45jRUFvu,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6gwBdFP3Bcxo2HMRkt4vaPznczbzZpJRmYhedej35Adm,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7K7YyMqjvtE5jt6AvPaXTRTF5w93oQa7sD1a6eBQpCGN,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+3e9zTbcKuRaTqAthbw5XrJYpqrLdWxu1B8yXmipqA9Q2,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+qQz8uS47JM6R2UbiHFy7pDxxiWfmQc8Dnf9qzzxPAXE,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+2iBHeKVNdHQjtMjw7GngrXpF8uMvngVDxVvytbTkFTYH,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+4jGPTXNbhPNgXHQ2tAf2Mph5DeoYma2b5eZnBHGaHvo2,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+BUZAPTriFkM2yC7vykdGqK28JE1HX9VDT9wkn1aq5m9N,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+DLDkt1V5m4Bo7djWJ4JPDikX5XP5jTQEphfgeBNMwbAb,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+8DrX22ip5ChgXLUXdZqrtnJvuLzEaGPCkkcgBYB7NaTk,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+CqD5eDn5eUQKqNJHmY1DXAK49dTYzZnGPqUPJHM52XrB,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+FLfzDnTuSmaadUrHMr8NNU1Tj4xPK8sidNASV5ri2bCr,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+ERUPwo5kJeXFmPKc8mrS4NkJU6vxqAWMLoAfadjN9BVr,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+mEVULWQTf4jaKuQbLhi3SiCvFExND9R6EE3BXvWT1Ar,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4zPgupz27wED2zErXmQNZmx8ZkY7tqSSvtwaA7RKZx1i,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+2vBkbcz2xkD5H22QdiK6RLQgEgnPVB1cKW65ZsEpPwiA,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7ooi8z3fiPgtqtPBc7ot4JtNoMTGRQZ49XHJNQf8MS2L,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5SVMZRg2xaQhBYUVdqMGEFAVnZirwUtbTFo7GBg8a5ZD,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+E9EoJZ9AKNAbqvaGLd5xBWzaFJWD1QVMDkwT769oE5Qm,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8KZ9ACBCjLXfdi3kU4yqZHsSjsWSvyeo4RFX9hrNBv2t,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+6D5mKB6cXVasCLxeiYaLoiyD4oNfzyoLKZPJXpN2AWUx,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+BoerfAoU1crLi3ChPYj5rBJHyaiMapwAuTd28uF2Hnqr,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7HoQbrN7oUJuLMVfjEmcNhWKWPBgFddcnL3NQBe2Vbuy,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+FDcEoQrPkGqnix9SkVV2qJqyn9x6BoHLHX5xAHRiGWCJ,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+CvKssUQNu6E3povVdtBEGLqLgRXx5mvsNjCe2r1nehjA,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+3L5ZBVqJFUWqg1Vz3kmajuCymcFsFZqSprtaw4pd5bEY,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+58SdBVeMCLYsuScGnAEpMWxMWmtbx9FwkvN5iENQ3JRV,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9megLyhW7V13jSDTWdUdNayxJDdVzUkt2JHvKmECG8Ci,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+CPBmHv7oei3wxf46kKLcz9whKvejqaeG9oZdP5hXeiCg,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6SQZuKtbS4LwLRTTEAkZswuLhjpyvsffCYAcbdJjhiAk,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+2bPCq1JeSTndEjdQtYwbeDx2CPBTmgZrBn7S9t9u4oKP,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+HQm8o2Y6e8HJnTdQafVQ832EhmCwhwV6TKQjaWNsSrNQ,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+4gWhSFWc1B6Tz9BccxAuqz4c3iUsHLjDyYQwJg3ges8k,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+5dgvENYTvLcmYvrBMLbu15m5c62fGykV7jzpRDjTDSJ4,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Hav2SZD4jw5tr5UeXnkVE2Be6GQLhKM1QGnyv7T4jNVy,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+HszuYbhjB1wJVoKEQvgS9qqztdXq3VCByV4eRNqDszR6,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+CqE5qZLx2eCXEhyHgFnvbrzPQG9zqpkSfnmWy1Kf6U9x,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9gRNY7bJdgHEnum5p3KE1JyoShsjXMrZZrCbSqLNDfHV,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7msuj9w6pKfaNJDuhsd3YBWATwD8veRKffbeTLu232p9,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8CMAeTUed8NAAXmLy2onSRz1g539T1b4B4mQXW1j48TG,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+AgFtbCXj1zJHFYEuaec6QXFcNZ54Ky1dSWeg3fsdakv5,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7DXT4m4gR66aCP6CJHEyUou55fAoEuqvSaDNwG9vj7GF,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5wrRARz8Tgj6RQk6ZgEhe1ykpXDDRvpAfsN1kxAVj7i1,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Fv118QgpuAS7bq7hRGqHixNHYPBw1ECanSeC1ykgWHjr,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+AAXb73bk58vpbkxGR8XWy3McLnxrKJo7tEEYA3KzqKpF,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9uH5tHkURYrTLkmY7bDoJnDdNy2gct1Ya4Q6xinR8Rzr,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+CBT71GcS5Aa4vPRfcimmeNdnW9pfVuMsKENG4sg8LmbN,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6Hp9f882V6g6RY3RRx2UEZeiSbR7TCvMUa6LQStZ6fVw,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+38KAZdgjnb7ABtKN6Y8vmNcVXC4Q45Wb8hidmntAP6zt,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+72dvbGuvpKKHsdYM2YD5ygpvxj6NHo8NSARv4Ep4jWm3,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+7XQ9A1UiVRUrpAgEznxHtPc5aYoZc2VthkiB2xG9P4Vb,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+AL2yunK85cPWtGmUQobc2QFnrmEw3XrNApUofBWBGbvr,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5zvH5siV4PymENXLYhJSPGsEBJuHFskuqa8ciu36ApR6,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4KmioqwGnYx9M1xnyDZu8FHUSGymVUqj98W97Cjp6Swx,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4sDXNvQ5kGjpB4W9VxVandSytKbKRLC8oMboyTLAVzcr,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+DLazmfY1HbYiQniNzKjH5FphyGGNx2nXSNmDnn9vK37k,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+ACaPc62KyYhrHWe41Q3HFvcRWt3TXg4rX1cATqYToVce,4500.000000,RPC response error -32002: Transaction simulation failed: Blockhash not found 
+3jAo2DMZYfgmjbV8jmcad58NECU2YZx9kUbbhnfxx9DM,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+5eJSsQ78JYkeJYwQSF8ugJkE4gjHHf44cFWkdZ3Mo4ai,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5mZv3yYSPGxPW2Eh7Ju2VJAh3WYjeu3JXkZ1zrrEY93L,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7UhaY8KAkFmbLbyVfwucjn1Dm1Q39wUV8aXGAC6QeSi9,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5PFQs2vqV63KFwVBt5N4jxCaJ9hJk8zJRgJNCPRnF6e5,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+697VSkQ6Lx8b5aWV8MMQAM5PUwwvo1mBgVUsYBKT9e7m,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6r3wXuSrbxDv5Lkva8VfrdZ1JfU9wdogoJLHoscMmoZL,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+DfgvgEhYoRX2F5sJhV81G5mWCwJT77DtCNWcEAehUgJD,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+95yrc82obuhePrzdKRmnvFkN6jXaFY5wdbFhvbZGaxMY,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+Dhr1tPfD4PR3zDE4ruH5g2UKHt37jiuGnVkoGQ2jxMJC,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6PhSbVFteBwKjszsDXrMUo8KLDaAFdczBp8JrVDLj533,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+GuLSfdQUCQwgmcqgb2jfGvdjENUFvvpdSx8oqfakjHTV,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+EBsfgFb8bRLM2wqx2oQodtxdy7TuiJZkFAQkcnB5iWhA,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4XQWsZPBKU5vD6vdKr9yasqi1gmpqwejWZZVKY4S4Zs1,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+2k5uiL5wsws7piNXR8Lsy3hBNoKZPQ4wH8JmcJhHzsxP,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+G1ifePnTiXVrjrn5x4UZaF6KhuZkLuczkw7QZt2X9PjL,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Cbm7YFmJNEZP5VL73kQNSKnaZPkaiSb21Ua3tUTQjxBy,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7pnZrfns1kAnWgNtK76AtLMEXdHJRsgdLf3ymXD5v7et,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8h2KyqFPfDVp8Szkuc2fheuQPQvZybTyfuY2RCnyHkRt,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6x99tNSXAeP6PRUQyfZL2ReKnzb279ZPgLDJX3cMPKNd,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+7GGPfoKw5RyHzMz8RxaiEcAfL5Ep2KrdHCk1SYULg2qe,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+Es8CLzHmLV4DMVctBxjgd97kiEouriXs7TeJQ3mYbqpy,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9SCBxpmdwYzgmjuCtcDLEwu7m9uTFtbMec7CcuEfTNwX,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5MiVYnNyKb89ZYTWBH2ysW8Yt9vrt7qsp1eV3JMa8sYe,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+E2MdnjX3uREobxzrScaXWSpncvvTyvUz1q2G1aVqf3Jb,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+AV7dUEobyf5drhpQ8sn3zseKt4g2h1EDRhDxvphuarmr,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+EV3vCBYBChXmwsEcrYisPiW82J7kedPjJoU1TV2bVqeG,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+GBKeRtM9eoDaMxSuTzm2uEhxdqo7duv3EDcUywrzKzef,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+FJzSe6Uf4cMjDshUCPecz5Q89jHQa1rTgYnvxUA2GCU4,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+CRCsYAd3t8JqamUMWwVhgeyyUCXNfhUN7jemmvNYETJ,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+AXrfUutapzLPqU1hnEQEBYJu14NTTsKSvNXNYY9ncw1L,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+58efy7B2fSYbfdyL6u2ugXCbaNJiwqZGP98GxnzTaHrn,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6v5E2azkUYjiNGzvz97hRbeBee682cTJDvYnYaoZTSgp,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+26UwF3N5H7HPPJpCE1CBwcjccmbVicRk6gDtKPQs1REE,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7okBPxztfm4bj2ow7SF148WhR8yPyjkgN111itXKdRnv,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+PGYevRsg6WffLEtMGkDuAtz4TEStsK9PdcaawZ3Kvbf,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+2B6ZZs94cMU2zpuAWTrtgrAbgkoaKst8HhkesuVFNnAC,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Bw4nXUJpWHwBZZ4YvH5KU48tHFZurGbNxKYK7sbGSimB,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+CgmyubXzA9VUGb8PSUEzZr2vRNzZxosQYDkTwuojpMz8,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8RmsNSFV4NvLyePGzHQpt3tqX7L3QGbyXSZEsoGo7jra,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+DcrY4aNY53ZQ6WxMHriczXT5ECEsFMCEkydoAecMx7iL,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9ky1FmFycwGQd2MbAsncxCnsZXJcGodHRE91eaT8Zr4q,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4qAaUnNVE62bPkThNgyMNHojhLiZ4Jfup1Tn3tyFtMGm,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+73319z7sJVZZsgidiVnxFWGABbAbgia5hyzXBF5YXL1b,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+EyL5YM81UFrm6R3ZV2vMzkkbC2zar7vJx85coff2CXGK,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+DotgRPpR1kHsjERR69k244Qk1rTZkrPq5GaWSNGCFCNL,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6m8jRtVQZdd4vrBgEkSV4nuJrBqrXH94jR8L1oh6GZMt,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+7EJyMFGwmYecJZ3e2QqspnGTiQoVmFNjHKHB4ikNDmw9,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+B1bjieMJyD2mAeTu5YneCC9BxDKqLKdiqQJ7GQoMt9Hg,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+86iqfwepR5EnovyiiNP2vPjrQGwMR9RZrL2m8kKTrhb3,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+BZA5Et9jBieSSFWhjQaNjfRVQRYBzirQ4LKNuHKYoV5H,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+2hDjkaVRXYP6uQHAwRjFnwgLUWeauE7KgUGkA5zQ1cPf,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9mciDsJKkcXbyNyRs8CT4X6gLVeNdPi4EzR2U4FpStg4,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+toQUaqQg9vT8umrFy8zRYd3bbkTH6UbY654r7sF3RVz,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+BPpANVc1V9fmBjrtv3NSyYcCmGimDspW5Gb1N4YZkPVq,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+25TTkM6TMVJiAErutTeXnxibkwptDdGDRwhDyvb9A6gB,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+ABuetqEdRTGVehmiUbSfXysjczUMT8VsGK7WG3GSPHyy,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8aEQbquQSVtQ1YgXkNgmq6tGUadnVh74cmfGiHSqvXGV,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8236iBM4q2BCfTJnkkJHqK3inM5F9qyvQUTaXTiL2ZUR,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+8sQCoWkzZu2aMAen6tb3La52Fun4uNTn3sGWVzfd3c9z,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+34vLHnVNkD12MDjsiC2vuzRtG5fi8mqRH1p6NdwG5hsW,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4v99eMAGFk4NtrXMEUMuTYYGgJXgeC2ramSx3D36FQUA,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+67FQJ9GqgqMcxBiMwB5kATPVAo8qn7mRitShEHi6yhNo,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+83QqTacydSUBHBcrZphg3MZVcrtFvh6ChzQ387kEhaPN,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+EBe2HjouCyeVrJ5ifqvsRoexBZS63kZ8ZGaz8UUWMNGB,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+AuVSaAFAWtKdgKA4PjsEL6H3DNtpqnpAPhniMgoSpGAp,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Gkbfq6UDsUX1KgC7N9kFFhugFow15V9R1c8PkVJvRPyq,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+2HN5JCnRiqBYU3vrENpQc8iZf5dzL4WQCUcwcVhqey4d,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5D5YAdwYU3qTH1DUqt7N6WCUb2kaPGN2ApdctndENJRJ,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+8YdmZqMrjE9g3pZyU4M5Y3nyJiiZLgQiY2DLQTsCrLjT,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+BosukmuKE3XrRQbdDSYcawaP7LE1wMMTAnzhqY2zxckX,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+C1NV4CsAtjJxjbdDpccJ7UEZrYFNNJGftngVAHxfNsd5,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7DeQhvyYWBVrYhWrT9TVE4KUCCShSpaztqYcAPv5NqPp,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+EMZSyKxzk7uNZ8hxsz9xpE3QAoSeMmXMvzyUS44L1Ctv,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4dSjpwrV4Prd6PFE3Ap3mtgpQvh1aaiD87GxjSVJkPhL,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6DBYCMiNWdvF2pi4VJj47ocLCc8NPjjVHTzdbimDfmfJ,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+64RcazW9Z3AUyn5eDUDnuZzegiR4chUvhukjg9XCnrDu,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+GVD3akDC16Z8o2ii6KoYkk9e6ibnqqxXv9McVVxgNvZg,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+FbFwkLCDgbPnKXziXEzrej61c6RUxYr9ESUyudfGtiQ5,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9CXph8QFr343bwNXxyPQa2DVS29LGkug1GHf8B8m7Qxk,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+DoEJBrywhpD9fa1G4vndKnvTbP7bzGT572z5REtsAAWT,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8nKPfvqixjNgfdd8qDUEZf7vBmr79c8fPVyVbxARkXGc,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Hv5qAQnEVcDQbM9aAikF2ZLEc2MwWMPySbSczrkscamR,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5fR2jYLDERBNCm8M9YKZpsmt3oivo9C6MefY7HQC4BQa,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Euyk9ar4gHLmLG2sfc1VBy55LBddiqmoxyoM2J7y6hUA,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+HH2AUd8FWZxR6GL2pEEjwHY9smdmg7szmZYV81MRtuFs,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+4Tz9atkoLVE8AWHKk7SCHhE8muHyKvWLbJphsfXqAKDU,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9bXAGa2duSxwdnLwF7W7yk15vhkcNyqUovCRUZJxmmeB,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6dCQoR81Vt9sMxZQCEq2TUU6CPRZPzQ7kxfEwsVRMESj,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+Cr1cJ76bE95CnzHRy4hVXhpUarE67RESzbahNzmZN4zB,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+Ew8gmtb66VQ46F7e76CrqsisJuunhhDa4H8vxdes1aW5,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8vzqvcFsKAD1WxCwerMxFChsK1rYszCZmkfFTDJuPaUA,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+HizBypbVohEVyYK1Uc8pq3JotGhybL1Ta8HmfH4WSYFG,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Bz4qAoXRG3NxqWV3SLTatXfgL7wVrARPpgJHE5dZkKTt,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+DzGvQzXTtB2sFEhfcdQb9trSSgU9fSJ1nvLZXKEM299e,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+EUPS2vyG4EA8iLaYHdvezC5j3vTLMnL5VJP33RY6oYRp,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6dGA5PZPQNN949zfcj9mGqoPZ9eezz92asTjpj8HZnnB,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+DkHJRe387bpgH1aKZzzdfTvXWtwaYLkz2eb7kGZEAxAk,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+CnDjjXwNqiWJGQRasJSLCwtL6KGuAdkqiGUsDjHan2a8,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+F78Fa6d2dc1C1Vy9vZT2RM8aX8bBATvEfTRnncPZcaDo,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9u6jRnA2VcFo2Ax7FNxjbFLqnBCWpDEtdHiLc4Eijb8K,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+HBoXRKAT2NWEEsfp1nmJNbg7Y2kSsKw8GDxjrMRMHbUi,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+AtXi7gjaUmFaUyzAdyrmSgbJE6CdXBorfRrSd8FhCELJ,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+32jugc5Bow4Ego3ofeBnxDXMr8oT1gcH4M6vGfG7NPSJ,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+MdqyLerYAvPjuQyg6AaBPphodrJkpH3GSLXuXS9gfPA,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+8A7JktXb4hihp4UskrUwvvwHzNASBJEkFhTMgxJoPUCR,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+44bPAMcEeLhxmtAzLqozYeEPFB3vbzDHK6GZhQNFMV9G,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6j93r4KsuYpSfzMgUusQu1gFMZnfuehjznnnUVHoPeJy,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+6bLFjgqEmTi8QyYGhny3zqhSVBtcSZJ58RkzYzi2d4zQ,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+2NBhkKrutueYvLDyB8JkDCiD8qmNPsrLU8MF7ptza4LU,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+4JYn64644UCxvHqWW41mDPuu6JcvgTNPeqk9ck7W6SXd,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+CAicnn3mjDQBc1gPAgY14LT5MNFp3U43yfhcuec2GFqA,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+7fSdokjHUxnpaNJ9MeRSZZwfdn4EFLKnXKAwBnFTHj6U,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7gfmhAnLzUSR8S6zu9JCZpD7viTn6njaNe8vMKWyGSZG,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+GXX6w5BQ9WLnq6WudMGAixUWkVhGaWCQUJDiLGnYJNNY,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+7kJTPj5TgAEP1wWS98t9w2TdyHLh5kbHMhG683Ds3icN,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+AadbnfoYhzuGUoQCttP6isurRuQbQvNRcD8zfCVGc8GZ,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+52gHUijqmp2BLsyUpZCpxxGLuhm3mo7LNEYg8dmLKktN,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+EPehBLpHw3emBLL2vDiL5zfucZxwuMVoYfQBYSfTtPW5,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+5oEt1Pa7Fj3YtqUYjSnA4uc6tESAxyZRKHZTQufk1eT9,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+kjYAbfRJcVhiLbiqfiERe7LUsWUVKRL1nXQ5W7Vq59g,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9CY27SKYXaEjKvbn2YBBn5pYNvD2djSbD9hUxHhUhzeg,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+2mUBqFXaCJkiFeVYZsuaW4XtNet3dk8tnHovpWMXvRkh,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+3Wf7HgV3y9YvZZfBKQQGTfFEMYL91cfvoAaC8vDibipZ,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+B2L3g33ivJ7LA59ndRhvgHZezWT1j2XC7oDrvWtT7KU9,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+5xHtJN3JaqPQmownkuA5MwVnbTR8oVFtkZHE1NTXwA5E,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+BuNLXz7FPsDSHFvtbaPC8Z21uZmzpyCWvQc1rG7P1y1o,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Hi2ug8nAJiqZN1cDHGANtYxDcg3c87LMwyub6KjYbsXD,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+Cip3sV2CH7Af9zBTyBbXyjwDJ9kvTrknMHFUJ9EQJVoj,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+BxzERncrQJDABFcepkyBmBqv5DiHPpxZ6ZLHtUHqTvPZ,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+HE1jEovwDQicuBMcAQ9XEGqxPaqvUSjxh4ynmKDJE8Qy,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+ENx9JM7eAL5hiXkXqHw2piF1wWBufRReGNHU8Kxm8Zkk,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+3KA8YJfizyGFbWmzmhGoA8WsDYBUgi8HaRPHivcovRDs,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+4KfsymjGCU11u7LSYiHNnjdb8wdQyGMFazhG4XNZxSMU,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+DDo1VDZfpbDjCZ258ndwsVQM8Ao8ZNcZZQtQCZHrDsFY,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account
+9vS9d9sb8ifNmwuAAhNC2JNJ4SJGkZmhTUoAuQe71xQq,4500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+FHaGL2bofDXGnjwdqwBsZM5jFS33qirBsntErWKKr4UC,4500.000000,Error: Recipient's associated token account does not exist. Add `--fund-recipient` to fund their account

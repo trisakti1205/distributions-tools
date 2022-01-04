@@ -1,0 +1,6 @@
+recipient,amount,error
+8qsCb4mVFJbGpv3LWYJDn3aTPJ9BLu8h52SVniocUajW,500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+HnyeX8hqcVKcyBQkgrXzCtML4mSHhVT81P4XShjJpXQY,500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+DG6hmF4Ek3vPaHY7Xnpjo4GCtPghboRs5vmRJfZBBcwS,500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+CUa7YsGdLkcJaQpmUmNSrGbJXXtyqbLATEWrCYG3vgm4,500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
+ACutb4T5CwnMEaFn5fav17dh8KFdJdbvscdxc7GqwvHx,500.000000,Error: The recipient address is not funded. Add `--allow-unfunded-recipient` to complete the transfer 
